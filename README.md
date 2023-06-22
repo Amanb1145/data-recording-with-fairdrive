@@ -2,12 +2,6 @@
 
 An web3 Todos application built using FairOS REST API and FDP Play.
 
-## Roadmap
-
-- improve dx w.r.t initial setup and env
-- improve ui/ux
-- make todos editable (https://github.com/fairDataSociety/fdp-storage/issues/192)
-
 ## Local Development Setup
 
 ### Prerequisites:
