@@ -1,4 +1,4 @@
-# Todos with FairOS and FDP Play
+# Data Recording with FairOS and FDP Play
 
 An web3 Todos application built using FairOS REST API and FDP Play.
 
@@ -33,11 +33,11 @@ $ fdp-play start --fairos
 
 #### Clone the repo
 ```shell
-$ git clone https://github.com/fairDataSociety/fairos-TODO-app-example.git
+$ git clone https://github.com/Amanb1145/data-recording-with-fairdrive.git
 ```
 
 ```shell
-$ cd fairos-TODO-app-example
+$ cd data-recording-with-fairdrive
 ```
 
 ### Install dependencies
@@ -70,13 +70,3 @@ $ npm run dev
 ```
 
 The application can be viewed at - http://localhost:5173/ 
-
-## Screenshots
-
-### Login / Register Page:
-
-![image](https://user-images.githubusercontent.com/520570/210035932-433b63e8-7750-4684-8cd7-61b9ced6c3ca.png)
-
-### Todo List:
-
-![image](https://user-images.githubusercontent.com/520570/210035959-ed32a5de-4e7f-48b2-9433-c2c3cd9cd273.png)
